@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:Heart Disease Prediction}
+## ${1:Heart Disease Prediction}
 
 ## Heart-disease-prediction
 
