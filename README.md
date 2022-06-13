@@ -21,7 +21,3 @@ I Used different Models For Model Building like Logistic Regression,Decision Tre
 the dataset come from the CDC and is a major part of the Behavioral Risk Factor 
 Surveillance System (BRFSS), which conducts annual telephone surveys to gather data on the health 
 status of U.S. residents
-
-## Credits
-2020 annual CDC survey data of 400k adults related to their health 
-status
