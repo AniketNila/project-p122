@@ -3,6 +3,7 @@
 # ${1:Heart Disease Prediction}
 
 ## Heart-disease-prediction
+
 This is a classification project since the variable to be predicted in binary (heart disease or not) Objective is here to predict whether a person have heart disease or not on the basis of user inputs.
 ![heart](https://user-images.githubusercontent.com/96051835/173288385-743ac79a-13a2-4a6e-b1d7-831726c0546f.jpg)
 
