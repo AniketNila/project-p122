@@ -1,10 +1,5 @@
-<snippet>
-  <content><![CDATA[
-## ${1:Heart Disease Prediction}
-
 ## Heart-disease-prediction
 
-![heart](https://user-images.githubusercontent.com/96051835/173288385-743ac79a-13a2-4a6e-b1d7-831726c0546f.jpg)
 This is a classification project since the variable to be predicted in binary (heart disease or not) Objective is here to predict whether a person have heart disease or not on the basis of user inputs.
 
 ## Details
@@ -30,7 +25,3 @@ status of U.S. residents
 ## Credits
 2020 annual CDC survey data of 400k adults related to their health 
 status
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
